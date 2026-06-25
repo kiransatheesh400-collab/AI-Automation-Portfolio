@@ -12,4 +12,8 @@ Hi, I am Kiran an AI Automation freelancer building workflows to save time from 
 
   View Repo - https://github.com/kiransatheesh400-collab/Appointment-Booking-System
 
+ ## 3.AI Follow Up System
+  Automatically follow up the customer and updates CRM. Integrated with Gemini AI for Email follow up
+
+  View Repo - https://github.com/kiransatheesh400-collab/AI-Follow-up-System
   
