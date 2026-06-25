@@ -1,7 +1,6 @@
 # AI-Automation-Portfolio
 Hi, I am Kiran an AI Automation freelancer building workflows to save time from manual work 
-## Description
-  In this repository I am showcasing the top automation projects I have done with n8n.
+
 # Projects
  ## 1.AI Lead Qualification System
   Automatically separates lead into high,medium and low with the help of gemini.
